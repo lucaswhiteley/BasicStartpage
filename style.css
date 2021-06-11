@@ -1,0 +1,46 @@
+body {
+    background-color: #121212;
+}
+
+.flexbox-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 10%;
+}
+
+.flexbox-container2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 90%;
+}
+
+.flexbox-item {
+    margin: 50px;
+}
+
+h1 {
+    font-family: courier, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+h2 {
+    font-family: courier, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+
+}
+
+a {
+    font-family: courier, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-decoration: none;
+}
+
+a :hover{
+    color: lightyellow;
+}
+
