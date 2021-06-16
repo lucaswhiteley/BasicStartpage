@@ -17,6 +17,13 @@ body {
     height: 90%;
 }
 
+.flexbox-container3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 10%;
+}
+
 .flexbox-item {
     margin: 50px;
 }
@@ -39,8 +46,3 @@ a {
     color: white;
     text-decoration: none;
 }
-
-a :hover{
-    color: lightyellow;
-}
-
