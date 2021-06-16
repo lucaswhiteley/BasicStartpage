@@ -8,7 +8,7 @@ I will use this as my homepage on the web browsers that I use, and plan to make 
 
 
 When was it created?
-The project was started on 10/06/21 and completed on 11/06/21.
+The project was started on 10/06/21 and completed on 16/06/21.
 
 
 Does it use any frameworks (e.g. Bootstrap)
