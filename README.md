@@ -13,4 +13,5 @@ The project was started on 10/06/21 and completed on 11/06/21.
 
 Does it use any frameworks (e.g. Bootstrap)
 Makes use of no frmaeworks, and is coded in simple HTML and CSS, with flexbox for layout.
+Clock code comes from https://www.timeanddate.com/clocks/free.html
 
